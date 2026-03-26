@@ -1,11 +1,16 @@
 # Hi, I'm Alejandro! 👋
 
+<p align="center">
+  <img src="./media/jaguar_bolivia.jpeg" alt="Jaguar camera trap, Bolivia 2017" width="680" />
+</p>
+
 I spent years trying to understand how wildlife populations respond to a changing climate: building Bayesian models on decades of field data, forecasting species viability under uncertainty, and producing evidence that fed directly into conservation decisions. Some of that work meant tracking pumas and jaguars across remote South American landscapes. Some of it meant climbing tropical mountains in the rainforests of northeast Australia to understand how global warming is quietly reshaping the lives of arboreal marsupials in the canopy above. When your model output determines whether a species gets protected, you develop a particular relationship with getting it right.
+
 These days I work at the intersection of AI engineering and data science, building systems that turn messy real-world data into outputs people can act on. I'm particularly drawn to problems where the data is hard, the uncertainty is real, and the answer actually matters. Same instincts, different problems.
 
 - 🔭 Currently building AI-powered tools and applications
 - 🌱 Currently learning MLOps and production systems
-- ⚡ Fun fact: I play competitive Magic: The Gathering — a game that rewards the same things I value in modelling: understanding system dynamics, reading signals under uncertainty, and knowing when your model of the game state is wrong.
+- ⚡ Fun fact: I play competitive Magic: The Gathering, a game that rewards the same things I value in modelling: understanding system dynamics, reading signals under uncertainty, and knowing when your model of the game state is wrong.
 - 📫 [alejandrofuentepinero@gmail.com](mailto:alejandrofuentepinero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alejandro-dela-fuente/) · [Portfolio](https://alejandrofuentepinero.github.io/)
 
 ---
