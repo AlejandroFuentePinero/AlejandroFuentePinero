@@ -19,6 +19,7 @@ These days I work at the intersection of AI engineering and data science, buildi
 
 | Project | Description |
 |---|---|
+| 🤖 [AI Job Intelligence Engine](https://github.com/AlejandroFuentePinero/ai-jie) | An LLM-based pipeline that extracts and structures signals from job postings to power data-driven insights for job seekers and labour market analysis. |
 | 🤖 [LLM Engineering Lab](https://github.com/AlejandroFuentePinero/llm-engineering-lab) | A growing collection of LLM projects built from scratch: fine-tuning open-source and frontier models, RAG systems with evaluation, and autonomous agents that plan and act. |
 | 📊 [Job Intelligence Engine](https://github.com/AlejandroFuentePinero/job-intelligence-engine) | A job recommender and upskilling system built on tech job market structure. Surfaces top job recommendations, salary signals, skill gaps, and what to learn next. |
 | 📊 [MLB Analytics with SQL](https://github.com/AlejandroFuentePinero/MLB_Analytics_Project) | 150 years of baseball run through a clean relational schema. Analytics on talent pipelines, salary dynamics, and player careers. |
