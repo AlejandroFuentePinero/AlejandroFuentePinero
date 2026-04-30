@@ -8,8 +8,8 @@ I've spent years trying to understand how wildlife populations respond to a chan
 
 These days I work at the intersection of AI engineering and data science, building systems that turn messy real-world data into outputs people can act on. I'm particularly drawn to problems where the data is hard, the uncertainty is real, and the answer actually matters. Same instincts, different problems.
 
-- 🔭 Currently working on the Digital Twin project, an AI agent that represent me in professional contexts.
-- 🌱 Currently learning MLOps and production systems
+- 🔭 Currently building the Digital Twin, an agentic RAG system that represents me to recruiters and work colleages.
+- 🌱 Currently learning advanced Agentic designs, MLOps and production systems
 - ⚡ Fun fact: I play competitive Magic: The Gathering, a game that rewards the same things I value in modelling: understanding system dynamics, reading signals under uncertainty, and knowing when your model of the game state is wrong.
 - 📫 [alejandrofuentepinero@gmail.com](mailto:alejandrofuentepinero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alejandro-dela-fuente/)
 
