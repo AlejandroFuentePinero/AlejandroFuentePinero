@@ -8,7 +8,7 @@ I've spent years trying to understand how wildlife populations respond to a chan
 
 These days I work at the intersection of AI engineering and data science, building systems that turn messy real-world data into outputs people can act on. I'm particularly drawn to problems where the data is hard, the uncertainty is real, and the answer actually matters. Same instincts, different problems.
 
-- 🔭 Currently extending the Job Intelligence Engine with an AI-powered structured extraction and evaluation layer.
+- 🔭 Currently working on the Digital Twin project, an AI agent that represent me in professional contexts.
 - 🌱 Currently learning MLOps and production systems
 - ⚡ Fun fact: I play competitive Magic: The Gathering, a game that rewards the same things I value in modelling: understanding system dynamics, reading signals under uncertainty, and knowing when your model of the game state is wrong.
 - 📫 [alejandrofuentepinero@gmail.com](mailto:alejandrofuentepinero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alejandro-dela-fuente/)
@@ -19,6 +19,7 @@ These days I work at the intersection of AI engineering and data science, buildi
 
 | Project | Description |
 |---|---|
+| 🤖 Digital Twin (Upcoming) | An agentic RAG system that represents Alejandro de la Fuente professionally, classifying each recruiter query into one of five branches, dispatching branch-specific retrieval and tools, and gating responses through an independent guardrail agent. |
 | 🤖 [AI Job Intelligence Engine](https://github.com/AlejandroFuentePinero/ai-jie) | An LLM-based pipeline that extracts and structures signals from job postings to power data-driven insights for job seekers and labour market analysis. |
 | 🤖 [LLM Engineering Lab](https://github.com/AlejandroFuentePinero/llm-engineering-lab) | A growing collection of LLM projects built from scratch: fine-tuning open-source and frontier models, RAG systems with evaluation, and autonomous agents that plan and act. |
 | 📊 [Job Intelligence Engine](https://github.com/AlejandroFuentePinero/job-intelligence-engine) | A job recommender and upskilling system built on tech job market structure. Surfaces top job recommendations, salary signals, skill gaps, and what to learn next. |
