@@ -19,7 +19,7 @@ These days I work at the intersection of AI engineering and data science, buildi
 
 | Project | Description |
 |---|---|
-| 🤖 [Digital Twin](https://github.com/AlejandroFuentePinero/digital-twin) | An agentic RAG system that represents Alejandro de la Fuente professionally, classifying each recruiter query into one of five branches, dispatching branch-specific retrieval and tools, and gating responses through an independent guardrail agent. |
+| 🤖 [Digital Twin](https://github.com/AlejandroFuentePinero/digital-twin) | An agentic RAG system that answers professional questions about Alejandro de la Fuente — experience, research, projects, skills, and career trajectory. |
 | 🤖 [AI Job Intelligence Engine](https://github.com/AlejandroFuentePinero/ai-jie) | An LLM-based pipeline that extracts and structures signals from job postings to power data-driven insights for job seekers and labour market analysis. |
 | 🤖 [LLM Engineering Lab](https://github.com/AlejandroFuentePinero/llm-engineering-lab) | A growing collection of LLM projects built from scratch: fine-tuning open-source and frontier models, RAG systems with evaluation, and autonomous agents that plan and act. |
 | 📊 [Job Intelligence Engine](https://github.com/AlejandroFuentePinero/job-intelligence-engine) | A job recommender and upskilling system built on tech job market structure. Surfaces top job recommendations, salary signals, skill gaps, and what to learn next. |
