@@ -4,7 +4,7 @@
 
 ## Current Projects
 
-- 🪞 **[Digital Twin](https://github.com/AlejandroFuentePinero/digital-twin)** — Agentic RAG system that answers professional questions about me: experience, research, projects, career trajectory.
+- 🪞 **[Digital Twin](https://github.com/AlejandroFuentePinero/digital-twin)** — Agentic RAG system that answers professional questions about me.
 - 🛰️ **[AI Job Intelligence Engine](https://github.com/AlejandroFuentePinero/ai-jie)** — LLM extraction pipeline turning messy job postings into structured signals.
 - 🧪 **[LLM Engineering Lab](https://github.com/AlejandroFuentePinero/llm-engineering-lab)** — Collection of LLM projects from scratch.
 - 🧭 **[Job Intelligence Engine](https://github.com/AlejandroFuentePinero/job-intelligence-engine)** — Job recommender and upskilling system.
