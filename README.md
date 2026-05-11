@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./media/intro-slide3.png" alt="Alejandro de la Fuente — AI Engineer" width="100%" />
+  <img src="./media/intro-slide4.png" alt="Alejandro de la Fuente — AI Engineer" width="100%" />
 </p>
 
 
