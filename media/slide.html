@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --bg: #0d0d0d;
+    --ink: #f3efe9;
+    --muted: #a39d94;
+    --faint: #5c5852;
+    --accent: #e4ab88;
+    --rule: #2a2724;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1420px; height: 798px; background: var(--bg); color: var(--ink);
+    font-family: "Inter", sans-serif; -webkit-font-smoothing: antialiased; overflow: hidden; }
+  .page { position: relative; width: 1420px; height: 798px; padding: 72px 96px 56px 96px; }
+
+  /* left column */
+  .left { position: absolute; left: 96px; top: 72px; width: 520px; }
+  .kicker { font-size: 13px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--accent); font-weight: 500; }
+  .kicker .amp { font-family: "Lora", serif; font-style: italic; text-transform: none; letter-spacing: 0; color: var(--muted); font-size: 16px; margin: 0 10px; position: relative; top: 1px; }
+  h1 { font-family: "Lora", serif; font-weight: 500; font-size: 78px; line-height: 1.02; letter-spacing: -0.012em; margin-top: 22px; color: var(--ink); }
+  h1 .last { color: var(--accent); }
+  .tagline { margin-top: 30px; font-size: 22px; line-height: 1.45; color: var(--ink); max-width: 440px; font-weight: 300; }
+  .tagline b { font-weight: 500; }
+
+  .winona { position: absolute; left: 230px; bottom: 56px; height: 350px; }
+
+  .foot { position: absolute; left: 720px; bottom: 56px; font-size: 12.5px; letter-spacing: 0.04em; color: var(--faint); }
+  .foot span { margin-right: 22px; }
+
+  /* right column */
+  .right { position: absolute; left: 720px; top: 76px; bottom: 60px; width: 628px; display: flex; flex-direction: column; justify-content: space-between; }
+  .section { margin-bottom: 0; }
+  .pair { display: flex; gap: 44px; margin-bottom: 6px; }
+  .pair .section { flex: 1; }
+  
+  .section:last-child { margin-bottom: 0; }
+  .label { font-size: 13px; letter-spacing: 0.24em; text-transform: uppercase; color: var(--accent); font-weight: 500;
+    padding-bottom: 14px; border-bottom: 1px solid var(--rule); margin-bottom: 20px; }
+  .label .ctx { color: var(--faint); letter-spacing: 0.08em; text-transform: none; font-weight: 400; margin-left: 12px; }
+  .body { font-size: 23px; line-height: 1.5; text-wrap: pretty; color: var(--ink); font-weight: 300; }
+  .body em { font-style: normal; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="left">
+    <div class="kicker">Ecologist<span class="amp">&amp;</span>AI engineer</div>
+    <h1>Alejandro<br><span class="last">de la Fuente</span></h1>
+    <p class="tagline">Understanding complex systems,<br>living and artificial.</p>
+  </div>
+
+  <img class="winona" src="winona.png" alt="Winona">
+
+
+  <div class="right">
+          <div class="section">
+        <div class="label">Ecology</div>
+        <p class="body">A decade of quantitative ecology across three continents, from Andean pumas to Australian rainforest possums. Bayesian models of how climate change erodes tropical biodiversity, and what it would take to protect it.</p>
+      </div>
+      <div class="section">
+        <div class="label">Artificial intelligence</div>
+        <p class="body">Intelligent systems powered by large language models, built with explicit assumptions, calibrated uncertainty, and evaluation that catches failures before users do.</p>
+      </div>
+    <div class="section">
+      <div class="label">Outside of work</div>
+      <p class="body">Mountains, when I can reach them. Dog dad to Winona.</p>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
